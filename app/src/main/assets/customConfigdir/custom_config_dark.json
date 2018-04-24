@@ -1,0 +1,160 @@
+
+[
+  {
+    "featureType": "poilabel",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "poilabel",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "poilabel",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "medicallabel",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "educationlabel",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "airportlabel",
+    "elementType": "all",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "scenicspotslabel",
+    "elementType": "all",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "railway",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "railway",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "railway",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "districtlabel",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "districtlabel",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+
+  {
+    "featureType": "local",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "local",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "arterial",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
+    "featureType": "arterial",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+
+  {
+    "featureType": "highway",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility":"off"
+    }
+  },
+  {
+    "featureType": "highway",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility":"off"
+    }
+  },
+  {
+    "featureType": "highway",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility":"off"
+    }
+  },
+
+  {
+    "featureType": "subway",
+    "elementType": "labels.icon",
+    "stylers": {
+      "visibility":"off"
+    }
+  },
+  {
+    "featureType": "subway",
+    "elementType": "labels.text.fill",
+    "stylers": {
+      "visibility":"off"
+    }
+  },
+  {
+    "featureType": "subway",
+    "elementType": "labels.text.stroke",
+    "stylers": {
+      "visibility":"off"
+    }
+  }
+]
